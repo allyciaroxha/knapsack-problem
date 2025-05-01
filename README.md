@@ -1,0 +1,1 @@
+Implementação baseada no problema da mochila, tendo como objetivo simular e resolver um problema de seleção de jogadores com restrição de orçamento, buscando maximizar a melhoria no desempenho do time. 
